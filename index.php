@@ -1,0 +1,17 @@
+<!doctype html>
+<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><title><?php $str = $_GET['id']; $str = mb_convert_encoding($str, 'UTF-8', 'UTF-8'); $str = htmlentities($str, ENT_QUOTES, 'UTF-8'); $str = strtolower($str); if($str == 'andrei') { $str = 'ba mă-ta'; } echo $str; ?> suge pl</title>
+<link async="" href="https://fonts.googleapis.com/css?family=Bangers" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.suge,body{height:100%;margin:0}.suge .pula,.suge .pula h1{text-align:center}html{height:100%}@-webkit-keyframes pulaBackground{0%,100%{background-position:0 50%}50%{background-position:100% 50%}}@keyframes pulaBackground{0%,100%{background-position:0 50%}50%{background-position:100% 50%}}.suge{padding:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;background:-webkit-linear-gradient(180deg,red,#ffab00,#ef0,#02ff00,#00f2ff,#01f,#c500ff,#ff00df);background:linear-gradient(270deg,red,#ffab00,#ef0,#02ff00,#00f2ff,#01f,#c500ff,#ff00df);background-size:1600% 1600%;-webkit-animation:pulaBackground 9s ease infinite;animation:pulaBackground 9s ease infinite}@-webkit-keyframes wiggleText{0%,100%{text-shadow:3px 0 0 #d91f26,6px 0 0 #e25b0e,9px 0 0 #f5dd08,12px 0 0 #059444,15px 0 0 #0287ce,18px 0 0 #044d91,21px 0 0 #2a1571;-webkit-transition:all .6s cubic-bezier(.68,-.55,.265,1.55);transition:all .6s cubic-bezier(.68,-.55,.265,1.55)}50%{text-shadow:-3px 0 0 #d91f26,-6px 0 0 #e25b0e,-9px 0 0 #f5dd08,-12px 0 0 #059444,-15px 0 0 #0287ce,-18px 0 0 #044d91,-21px 0 0 #2a1571;-webkit-transition:all .5s cubic-bezier(.68,-.55,.265,1.55);transition:all .5s cubic-bezier(.68,-.55,.265,1.55)}}@keyframes wiggleText{0%,100%{text-shadow:3px 0 0 #d91f26,6px 0 0 #e25b0e,9px 0 0 #f5dd08,12px 0 0 #059444,15px 0 0 #0287ce,18px 0 0 #044d91,21px 0 0 #2a1571;-webkit-transition:all .6s cubic-bezier(.68,-.55,.265,1.55);transition:all .6s cubic-bezier(.68,-.55,.265,1.55)}50%{text-shadow:-3px 0 0 #d91f26,-6px 0 0 #e25b0e,-9px 0 0 #f5dd08,-12px 0 0 #059444,-15px 0 0 #0287ce,-18px 0 0 #044d91,-21px 0 0 #2a1571;-webkit-transition:all .5s cubic-bezier(.68,-.55,.265,1.55);transition:all .5s cubic-bezier(.68,-.55,.265,1.55)}}.suge .pula h1{font-size:4em;box-sizing:content-box;cursor:none;border:none;font-family:Bangers,cursive;color:transparent;letter-spacing:7px;text-overflow:clip;-webkit-animation:wiggleText 2s ease infinite;animation:wiggleText 2s ease infinite}</style>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1550045-61', 'auto');
+ga('send', 'pageview');
+</script></head>
+<body>
+<div class="suge"><div class="pula"><h1 id="a">cine suge pl?</h1></div></div>
+<script type="text/javascript">var name="ba mă-ta";window.location.pathname.substr(1)&&(name=window.location.pathname.substr(1),name=name.toLowerCase(),"andrei"==name?message="ba mă-ta suge pula":message=name+" suge pl","coaliția pentru famile"==name&&(document.getElementById("a").innerHTML="")),document.getElementById("a").innerHTML=document.title=message;</script>
+</body></html>
